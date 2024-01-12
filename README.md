@@ -1,6 +1,6 @@
-- 👋 Hi, I’m James Sturges (he/him)
-- 👀 I’m interested in stable isotope biogeochemistry and niche dynamics across large-scale ecosystem gradients
-- 🌱 I’m always looking to improve my data availability with GitHub repositories
+- 👋 Hi, I’m James Sturges, PhD student in the Rehage Coastal Fisheries Lab @ FIU (he/him)
+- 👀 I’m interested in using stable isotope biogeochemistry to study food webs & niche dynamics across large-scale ecosystem gradients
+- 🌱 I’m always looking to improve my nalysis and data availability with GitHub 
 
 
 <!---
