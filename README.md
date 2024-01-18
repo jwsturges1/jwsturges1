@@ -1,4 +1,4 @@
-- 👋 Hi, I’m James Sturges, PhD student in the Rehage Coastal Fisheries Lab @ FIU (he/him)
+- 👋 Hi, I’m James Sturges, PhD student in the [Rehage Coastal Fisheries Lab]([https://lternet.edu/](https://myweb.fiu.edu/rehagej/)). @ FIU (he/him)
 - 👀 I’m interested in using stable isotope biogeochemistry to study food webs & niche dynamics across large-scale ecosystem gradients
 - 🌱 I’m always looking to improve my analytical skills and data availability with GitHub!
 
